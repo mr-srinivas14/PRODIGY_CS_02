@@ -22,6 +22,9 @@ pip install Pillow
 
 ## 5. How to Install
 1. Clone or download this repository to your local machine.
+```bash
+https://github.com/mr-srinivas14/PRODIGY_CS_02.git
+```
 2. Ensure that `Pillow` is installed by running:
 ```bash
 pip install Pillow
@@ -35,7 +38,7 @@ python --version
 1. Open a terminal in the project directory.
 2. Run the tool by executing the following command:
 ```bash
-python <your_script_name>.py
+python Pixel_Manipulation_For_Image_Encryption.py
 ```
 3. Follow the on-screen prompts to encrypt or decrypt images.
 
